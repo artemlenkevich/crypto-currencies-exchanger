@@ -1,0 +1,1 @@
+export { getExchangeRates } from './converter';
